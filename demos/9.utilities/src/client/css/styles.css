@@ -1,0 +1,8 @@
+header {
+    width: 840px;
+    height: 200px;
+}
+header span {
+    display:block;
+    margin: 5px 0 0 5px;
+}
