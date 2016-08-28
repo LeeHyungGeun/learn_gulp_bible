@@ -94,5 +94,5 @@ gulp develop --optimize
 
 
 ### References
-- JavaScript Build Automation With Gulp.js
+- JavaScript Build Automation With Gulp.js <br />
 https://app.pluralsight.com/library/courses/javascript-build-automation-gulpjs
