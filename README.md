@@ -73,6 +73,25 @@ command: gulp develop
 options: --optimize -> do optimize
 ```
 
+### Introduce
+```
+gulpfile.js: a default gulp file.
+gulpconfig.js: a config file of gulp.
+bower.json: a package file of bower
+package.json: a pacakge file of npm
+src: a source directory
+- styles: Less
+- js: JavaScript
+- views: HTML:index.html
+dev: a result directory after gulp develop --optimize 
+```
+
+### Conclusion
+You can make a development environment with command: 
+```
+gulp develop --optimize
+``` 
+
 
 ### References
 - JavaScript Build Automation With Gulp.js
